@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //this layout has been linked
         setContentView(R.layout.activity_main);
         editText= (EditText) findViewById(R.id.editText);
         listView= (ListView) findViewById(R.id.listView);
