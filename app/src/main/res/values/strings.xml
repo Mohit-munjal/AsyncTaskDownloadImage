@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AsyncTaskDownloadImage</string>
+    <string-array name="urls">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+        <item>Image 4</item>
+        <item>Image 5</item>
+        <item>Image 6</item>
+    </string-array>
+    <string-array name="imageUrls">
+        <item>http://i1160.photobucket.com/albums/q489/melamock9109/01304456.jpg</item>
+        <item>http://all-free-download.com/free-photos/download/pebbles-texture_604842.html</item>
+        <item>http://all-free-download.com/free-photos/download/fall-feaf_604841.html</item>
+        <item>http://all-free-download.com/free-photos/download/enjoy-coke_604840.html</item>
+        <item>http://all-free-download.com/free-photos/download/scratched-texture_604839.html</item>
+        <item>http://all-free-download.com/free-photos/download/ravello-italy_604838.html</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
